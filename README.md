@@ -41,5 +41,50 @@ A modern GUI-based desktop application that allows users to register students, v
 ---
 
 ## 📁 Folder Structure
+student-registration-app/
+├── assets/
+│ ├── bg.png
+│ ├── logo.png
+├── main.py
+├── register.py
+├── database.py
+├── thank_you.py
+└── README.md
+---
+
+## 👨‍💻 Made By: Naman Singhal
+
+🎓 **Name**: Naman Singhal  
+🏫 **College**: Mukund Lal National College, Yamunanagar (Affiliated to Kurukshetra University)  
+📚 **Degree**: Bachelor of Computer Applications (BCA) – Pursuing  
+💡 **Career Goal**: Aspiring Data Science Engineer | Passionate Python Developer  
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, SQL, JSON  
+- **GUI**: Tkinter  
+- **Database**: MySQL  
+- **Concepts**: OOPs, API Integration  
+- **Tools**: Power BI, OpenCV (basic), Machine Learning (beginner level)
+
+---
+
+## 🧠 Certifications & Achievements
+
+- ✅ Python – Infosys Springboard, IBM, HP, Analytics Vidhya  
+- ✅ MySQL – HackerRank  
+- ✅ Job Simulation – Deloitte  
+- ✅ Python Mastery – Coding Seekho (ISO Certified), GeeksforGeeks  
+- ✅ Multiple Coding Contests Participant  
+
+---
+
+## 🌐 Let's Connect
+
+📧 **Email**: [namansinghal879144@gmail.com](mailto:namansinghal879144@gmail.com)  
+🔗 **LinkedIn**: [linkedin.com/in/naman-singhal](https://www.linkedin.com/in/naman-singhal)  
+📁 **GitHub Projects**: [github.com/Naman-singhal-123]
 
 # student_registration_app
