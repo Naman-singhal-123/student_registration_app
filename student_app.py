@@ -148,7 +148,7 @@ class StudentRegistrationApp:
 
     def details(self):
           import mysql.connector as m
-          db=m.connect(host="localhost",user="root",password="ROOT",database="student_registration")
+          db=m.connect(host="localhost",user="sensative_information",password="sensative_information",database="student_registration")
           mycursor=db.cursor()
           nam=self.name_entry.get()
           dob=self.dob_entry.get()
@@ -297,7 +297,7 @@ def show_login():
             pass
     def login():
         import mysql.connector as m
-        db=m.connect(host="localhost",user="root",password="ROOT",database="student_registration")
+        db=m.connect(host="localhost",user="sensative_information",password="sensative_information",database="student_registration")
         mycursor=db.cursor()
         uname = username_entry.get()
         email = Email_name.get()
@@ -340,3 +340,4 @@ show_login()
 
 # --- START THE APP ---
 #show_login()
+
